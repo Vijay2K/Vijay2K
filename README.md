@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vijay2K
-- 👀 I’m interested in Game Development and web Development
+- 👀 I’m interested in Game Development.
 - 🌱 I’m currently learning Multiplayer game using Mirror in Unity.
 - 📫 Reach me on instagram @vijay_vj_dev
 
