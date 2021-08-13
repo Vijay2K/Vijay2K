@@ -3,8 +3,8 @@
 ## I'm a Game developer and Front-end web developer
 
 - 🌱 I’m currently learning React.js 🚀
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Tp become a full stack web developer
+- 💻 I’m looking to do freelancing for web development
+- 🥅 2022 Goals: To become a full stack web developer
 - ⚡ Fun fact: I love to play games a lot
 
 ### Connect with me:
