@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning React.js 🚀
 - 💻 I’m looking to do freelancing for web development
 - 🥅 2022 Goals: To become a full stack web developer
-- ⚡ Fun fact: I love to play games a lot
+- ⚡ Fun fact: I love to play games a lot 🎮
 
 ### Connect with me:
 
