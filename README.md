@@ -31,6 +31,7 @@
 <br />
 <br />
 
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Vijay2K&show_icons=true&theme=dark&hide_border=true&locale=en" alt="vijay" /></p>
 ---
 
 [twitter]: https://twitter.com/vijay_vj_dev
