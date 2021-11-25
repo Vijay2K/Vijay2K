@@ -2,7 +2,7 @@
 
 ## I'm a Game developer
 
-- 🌱 I’m currently learning Game AI and multiplayer networking🚀
+- 🌱 I’m currently learning Game AI and shader programming🚀
 - 🥅 2022 Goals: To become a full stack Game developer.
 - ⚡ Fun fact: I love to play games a lot 🎮
 
