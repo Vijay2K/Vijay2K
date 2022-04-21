@@ -1,10 +1,12 @@
-### Hi there, I'm Vijay 👋
+### Hi there, I'm Vijay <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ## I'm a Game developer
 
-- 🌱 I’m currently learning Game AI and shader programming🚀
-- 🥅 2022 Goals: To become a full stack Game developer.
-- ⚡ Fun fact: I love to play games a lot 🎮
+- 🔭 I'm currently working on 2D platformer game called **'Mossy Walk'**.
+- 🌱 I’m currently learning **Game AI** and **shader programming**🚀.
+- 💬 Ask me about **Unity**, **c#** and **game development**.
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://vijay2k.github.io/VijayPortfolio/)**.
+- ⚡ Fun fact: I watch netflix a lot 📺.
 
 ### Connect with me:
 
